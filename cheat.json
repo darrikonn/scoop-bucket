@@ -1,0 +1,15 @@
+{
+    "version": "0.3.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/darrikonn/cheat/releases/download/v0.3.0/cheat-v0.3.0-Windows-64bit.zip",
+            "bin": [
+                "cheat.exe"
+            ],
+            "hash": "346171ba90e1c7fe571ad8d7c45d6ef6d17f3ccc7e92d22e8d6df3a70ff8a1b3"
+        }
+    },
+    "homepage": "https://github.com/darrikonn/cheat",
+    "license": "MIT",
+    "description": "A fast and flexible cheatsheet manager built with Go"
+}
