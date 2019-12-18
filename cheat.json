@@ -1,12 +1,12 @@
 {
-    "version": "0.4.0",
+    "version": "1.0.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/darrikonn/cheat/releases/download/v0.4.0/cheat-v0.4.0-Windows-64bit.zip",
+            "url": "https://github.com/darrikonn/cheat/releases/download/v1.0.0/cheat-v1.0.0-Windows-64bit.zip",
             "bin": [
                 "cheat.exe"
             ],
-            "hash": "037cad438a6f091fa30a5caaaad4bfdfdc0ad2c4415b8c4941dc50ddcfaed65e"
+            "hash": "99387100e878233fc05996ed465cf583b56ba8b057c65e2880638e7dbbcd3731"
         }
     },
     "homepage": "https://github.com/darrikonn/cheat",
